@@ -1,6 +1,6 @@
 # Hey, I'm Pawan Chaudhary 👋
 
-AI Engineer | Problem Solver | Solution Builder
+AI Engineer  |  Problem Solver  |  Solution Builder
 
 > *Building AI that actually does something useful.*
 
