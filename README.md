@@ -1,5 +1,7 @@
 # Hey, I'm Pawan Chaudhary 👋
 
+AI Engineer | Problem Solver | Solution Builder
+
 > *Building AI that actually does something useful.*
 
 I'm a final-year CS undergrad who got obsessed with LLMs, agents, and everything in between. I like taking messy real-world problems and turning them into systems that work fast, reliably, and at scale.
