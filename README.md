@@ -1,5 +1,8 @@
-# Hey, I'm Pawan Chaudhary 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Saunakghosh10.saunakghosh10" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=fee5d9&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namaskar!+🙏;+I'm+Pawan+Chaudhary!;" />
+</h1>
 AI Engineer  |  Problem Solver  |  Solution Builder
 
 > *Building AI that actually does something useful.*
