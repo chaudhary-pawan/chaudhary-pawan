@@ -90,7 +90,7 @@ Databases       PostgreSQL · Supabase · Pinecone · Neo4j · MySQL
 
 - **B.Tech (CSE)** — IKG Punjab Technical University, Jalandhar *(2026)*
 - **XII** — Pradhan Public School, Agra *(81%)*
-
+- **X** — SKS Public School, Mathura *(87%)*
 ---
 
 ## 🏆 Achievements
