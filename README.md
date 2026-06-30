@@ -7,7 +7,7 @@ AI Engineer  |  Problem Solver  |  Solution Builder
 
 > *Building AI that actually does something useful.*
 
-I'm a final-year CS undergrad who got obsessed with LLMs, agents, and everything in between. I like taking messy real-world problems and turning them into systems that work fast, reliably, and at scale.
+I'm a CS graduate who got obsessed with LLMs, agents, and everything in between. I like taking messy real-world problems and turning them into systems that work fast, reliably, and at scale.
 
 Right now I'm most excited about **Agentic AI**, **RAG pipelines**, and **voice-first applications**. If it involves making an AI system *think* rather than just *respond*, I'm probably already reading papers about it at 1 AM.
 
