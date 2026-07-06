@@ -66,7 +66,7 @@ Personalized recommendation system deployed as a production-ready FastAPI backen
 
 **Lead AI Developer @ Stealth AI Startup** *(Oct 2025 - Present)*
 
-**AI Engineer @ Kartavya Technology, Bengaluru** *(Jan 2026 – Present)*
+**AI Engineer @ Kartavya Technology, Bengaluru** *(Jan 2026 – July 2026)*
 
 **Software Developer @ Scoutripper** *(Jul 2025 – Dec 2026)*
 
