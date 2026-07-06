@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Saunakghosh10.saunakghosh10" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=fee5d9&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namaskar+!;+I'm+Pawan+Chaudhary;" />
@@ -7,7 +6,7 @@ AI Engineer  |  Problem Solver  |  Solution Builder
 
 > *Building AI that actually does something useful.*
 
-I'm a CS graduate who got obsessed with LLMs, agents, and everything in between. I like taking messy real-world problems and turning them into systems that work fast, reliably, and at scale.
+I'm a CS graduate who got obsessed with LLMs, agents, and everything in between/beyond. I like taking messy real-world problems and turning them into systems that work fast, reliably, and at scale.
 
 Right now I'm most excited about **Agentic AI**, **RAG pipelines**, and **voice-first applications**. If it involves making an AI system *think* rather than just *respond*, I'm probably already reading papers about it at 1 AM.
 
@@ -106,7 +105,7 @@ Databases       PostgreSQL · Supabase · Pinecone · Neo4j · MySQL
 ---
 
 ## 📬 Let's Talk
-
+- **Portfolio:** [Pawan Chaudhary](https://pawan-chaudhary.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/chaudharypwn/](https://linkedin.com/in/chaudharypwn/)
 - **Email:** chaudharypawan1779@gmail.com
 
